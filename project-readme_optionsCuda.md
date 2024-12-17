@@ -1,11 +1,11 @@
-# Options-Pricing-CUDA
+# Options-Pricing-Using-CUDA-Through-Monte-Carlo-Simulations
 
 ## Slogan
 Parallel Power, Simple Config
 
 ## Overview
 
-CudaRuntime1 is a high-performance computing application designed to leverage both CPU and GPU resources for intensive computational tasks. The project focuses on efficient options pricing calculations using CUDA parallel processing technology.
+The project is a high-performance computing application designed to leverage both CPU and GPU resources for intensive computational tasks. The project focuses on efficient options pricing calculations using CUDA parallel processing technology.
 
 ## Key Features
 
@@ -50,7 +50,7 @@ CudaRuntime1 is a high-performance computing application designed to leverage bo
 
 ## Performance
 
-The project leverages GPU acceleration to significantly speed up complex financial computations, particularly options pricing calculations.
+The project leverages GPU acceleration to significantly speed up complex financial computations, particularly options pricing calculations using Monte-Carlo simulations.
 
 ## Repository
 
