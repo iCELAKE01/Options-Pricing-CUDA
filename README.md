@@ -1,6 +1,5 @@
 # Options-Pricing-Using-CUDA-Through-Monte-Carlo-Simulations
 
-## Slogan
 Parallel Power, Simple Config
 
 ## Overview
